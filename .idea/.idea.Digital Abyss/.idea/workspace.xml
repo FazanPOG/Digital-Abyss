@@ -20,10 +20,41 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d7aac171-27b2-43cb-99d4-49b7cdc43da6" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Assets/DigitalAbyss/Scenes/GameScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/DigitalAbyss/Scenes/GameScene.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/manifest.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/packages-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/packages-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Digital Abyss/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Digital Abyss/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Digital Abyss/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Digital Abyss/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DigitalAbyss/Architecture/Art/Animations/Main Character.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DigitalAbyss/Architecture/Art/Animations/Main Character/Idle.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DigitalAbyss/Architecture/Art/Animations/Main Character/Idle/Main Character Idle Look Backward_Clip.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DigitalAbyss/Architecture/Art/Animations/Main Character/Idle/Main Character Idle Look Backward_Clip.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DigitalAbyss/Architecture/Art/Animations/Main Character/Idle/Main Character Idle Look Forward Left_Clip.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DigitalAbyss/Architecture/Art/Animations/Main Character/Idle/Main Character Idle Look Forward Left_Clip.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DigitalAbyss/Architecture/Art/Animations/Main Character/Idle/Main Character Idle Look Forward Right_Clip.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DigitalAbyss/Architecture/Art/Animations/Main Character/Idle/Main Character Idle Look Forward Right_Clip.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DigitalAbyss/Architecture/Art/Animations/Main Character/Idle/Main Character Idle Look Forward_Clip.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DigitalAbyss/Architecture/Art/Animations/Main Character/Idle/Main Character Idle Look Forward_Clip.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DigitalAbyss/Architecture/Art/Animations/Main Character/Idle/Main Character Idle Look Left_Clip.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DigitalAbyss/Architecture/Art/Animations/Main Character/Idle/Main Character Idle Look Left_Clip.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DigitalAbyss/Architecture/Art/Animations/Main Character/Idle/Main Character Idle Look Right_Clip.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DigitalAbyss/Architecture/Art/Animations/Main Character/Idle/Main Character Idle Look Right_Clip.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DigitalAbyss/Architecture/Art/Animations/Main Character/MainCharacterController.controller" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DigitalAbyss/Architecture/Art/Animations/Main Character/MainCharacterController.controller.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DigitalAbyss/Architecture/Art/Animations/Main Character/Run.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DigitalAbyss/Architecture/Art/Animations/Main Character/Run/Main Character Run Backward_Clip.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DigitalAbyss/Architecture/Art/Animations/Main Character/Run/Main Character Run Backward_Clip.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DigitalAbyss/Architecture/Art/Animations/Main Character/Run/Main Character Run Forward Left_Clip.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DigitalAbyss/Architecture/Art/Animations/Main Character/Run/Main Character Run Forward Left_Clip.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DigitalAbyss/Architecture/Art/Animations/Main Character/Run/Main Character Run Forward Right_Clip.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DigitalAbyss/Architecture/Art/Animations/Main Character/Run/Main Character Run Forward Right_Clip.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DigitalAbyss/Architecture/Art/Animations/Main Character/Run/Main Character Run Forward_Clip.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DigitalAbyss/Architecture/Art/Animations/Main Character/Run/Main Character Run Forward_Clip.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DigitalAbyss/Architecture/Art/Animations/Main Character/Run/Main Character Run Left_Clip.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DigitalAbyss/Architecture/Art/Animations/Main Character/Run/Main Character Run Left_Clip.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DigitalAbyss/Architecture/Art/Animations/Main Character/Run/Main Character Run Right_Clip.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DigitalAbyss/Architecture/Art/Animations/Main Character/Run/Main Character Run Right_Clip.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DigitalAbyss/Architecture/Source/Scripts/Entities.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DigitalAbyss/Architecture/Source/Scripts/Entities/Player.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DigitalAbyss/Architecture/Source/Scripts/Entities/Player.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/DigitalAbyss/Scenes/GameScene/GameSubScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/DigitalAbyss/Scenes/GameScene/GameSubScene.unity" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,9 +66,11 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/DigitalAbyss/Architecture/Source/Scripts/Systems/GetPlayerInputSystem.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/DigitalAbyss/Architecture/Source/Scripts/Components/PlayerAnimatorAuthoring.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/DigitalAbyss/Architecture/Source/Scripts/Systems/PlayerMoveSystem.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.entities@1.2.3/Unity.Entities/Stubs/Unity/Debug.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/DigitalAbyss/Architecture/Source/Scripts/Components/MoveSpeedAuthoring.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/DigitalAbyss/Architecture/Source/Scripts/Systems/PlayerAnimateSystem.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -52,6 +85,10 @@
         <option value="$PROJECT_DIR$/Assets/DigitalAbyss/Architecture/Source/Scripts/Components/PlayerMoveInput.cs" />
         <option value="$PROJECT_DIR$/Assets/DigitalAbyss/Architecture/Source/Scripts/Systems/GetPlayerInputSystem.cs" />
         <option value="$PROJECT_DIR$/Assets/DigitalAbyss/Architecture/Source/Scripts/Systems/PlayerMoveSystem.cs" />
+        <option value="$PROJECT_DIR$/Assets/DigitalAbyss/Architecture/Source/Scripts/Components/PlayerGameObjectPrefab.cs" />
+        <option value="$PROJECT_DIR$/Assets/DigitalAbyss/Architecture/Source/Scripts/Components/PlayerAnimatorReference.cs" />
+        <option value="$PROJECT_DIR$/Assets/DigitalAbyss/Architecture/Source/Scripts/Components/PlayerAnimatorAuthoring.cs" />
+        <option value="$PROJECT_DIR$/Assets/DigitalAbyss/Architecture/Source/Scripts/Systems/PlayerAnimateSystem.cs" />
       </list>
     </option>
   </component>
@@ -95,6 +132,7 @@
       <option name="presentableId" value="Default" />
       <updated>1722947156169</updated>
       <workItem from="1722947188530" duration="10887000" />
+      <workItem from="1723036113624" duration="4605000" />
     </task>
     <servers />
   </component>
@@ -113,6 +151,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />

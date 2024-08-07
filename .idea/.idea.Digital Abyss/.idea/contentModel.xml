@@ -18,10 +18,12 @@
               <e p="Scripts" t="Include">
                 <e p="Components" t="Include">
                   <e p="MoveSpeedAuthoring.cs" t="Include" />
+                  <e p="PlayerAnimatorAuthoring.cs" t="Include" />
                   <e p="PlayerMoveInput.cs" t="Include" />
                 </e>
                 <e p="Systems" t="Include">
                   <e p="GetPlayerInputSystem.cs" t="Include" />
+                  <e p="PlayerAnimateSystem.cs" t="Include" />
                   <e p="PlayerMoveSystem.cs" t="Include" />
                 </e>
                 <e p="Tags" t="Include">

@@ -6,7 +6,7 @@ AnimationClip:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Main Character Idle Look Forward Right_Clip
+  m_Name: Player Run Forward Right_Clip
   serializedVersion: 7
   m_Legacy: 0
   m_Compressed: 0
@@ -21,17 +21,21 @@ AnimationClip:
   - serializedVersion: 2
     curve:
     - time: 0
-      value: {fileID: 3463867368975572583, guid: c891833cfa114c445a2ab9a24b89fe37, type: 3}
+      value: {fileID: 2985189582735431216, guid: b84491a49c7c03e4daa3392612b37ee1, type: 3}
     - time: 0.1
-      value: {fileID: 2289563553433762609, guid: c891833cfa114c445a2ab9a24b89fe37, type: 3}
+      value: {fileID: -2036267825510670342, guid: b84491a49c7c03e4daa3392612b37ee1, type: 3}
     - time: 0.2
-      value: {fileID: -2222567657223131556, guid: c891833cfa114c445a2ab9a24b89fe37, type: 3}
+      value: {fileID: 7447144687295639027, guid: b84491a49c7c03e4daa3392612b37ee1, type: 3}
     - time: 0.3
-      value: {fileID: -5113238343080788046, guid: c891833cfa114c445a2ab9a24b89fe37, type: 3}
+      value: {fileID: 5569912439626976717, guid: b84491a49c7c03e4daa3392612b37ee1, type: 3}
     - time: 0.4
-      value: {fileID: 5156471156424746387, guid: c891833cfa114c445a2ab9a24b89fe37, type: 3}
+      value: {fileID: -2945282682134363407, guid: b84491a49c7c03e4daa3392612b37ee1, type: 3}
     - time: 0.5
-      value: {fileID: 5156471156424746387, guid: c891833cfa114c445a2ab9a24b89fe37, type: 3}
+      value: {fileID: 2383238701018234005, guid: b84491a49c7c03e4daa3392612b37ee1, type: 3}
+    - time: 0.6
+      value: {fileID: 6079748562462414147, guid: b84491a49c7c03e4daa3392612b37ee1, type: 3}
+    - time: 0.70000005
+      value: {fileID: 6079748562462414147, guid: b84491a49c7c03e4daa3392612b37ee1, type: 3}
     attribute: m_Sprite
     path: 
     classID: 212
@@ -50,7 +54,7 @@ AnimationClip:
     m_AdditiveReferencePoseClip: {fileID: 0}
     m_AdditiveReferencePoseTime: 0
     m_StartTime: 0
-    m_StopTime: 0.51
+    m_StopTime: 0.71000004
     m_OrientationOffsetY: 0
     m_Level: 0
     m_CycleOffset: 0
